@@ -1,0 +1,17 @@
+div{
+
+    background-color: rgb(202, 109, 32);
+    border: 50px;
+
+}
+a{
+
+    color: rgba(95, 30, 95, 0.884);
+    padding: 20px;
+    text-decoration: none;
+
+}
+
+body{
+    background: rgb(31, 25, 31);
+}
