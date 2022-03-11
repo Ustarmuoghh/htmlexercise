@@ -2,16 +2,41 @@ div{
 
     background-color: rgb(202, 109, 32);
     border: 50px;
+    float:inline-start;
 
 }
 a{
 
     color: rgba(95, 30, 95, 0.884);
-    padding: 20px;
+    padding: 25px;
+    margin: auto;
     text-decoration: none;
+    margin-bottom: 20px;
+    text-align: center;
+    overflow: hidden;
+
+
+
 
 }
 
-body{
+.index{
     background: rgb(31, 25, 31);
+}
+
+.last{
+    background-color: green;
+    color: white;
+}
+
+.first{
+    background-color: blue;
+    color: white;
+}
+
+td, th{
+    padding: 10px;
+    text-align: left;
+    border: 1px solid;
+
 }
